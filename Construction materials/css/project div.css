@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#CCC;
+}
+#outer
+{
+	width:100%;
+	background-color:#06F;
+	padding:0px;
+	margin:0px;
+}
+#navdiv
+{
+	padding:0px;
+	margin:0px;
+}
+#slidediv
+{
+	width:100%;
+		padding:0px;
+	margin:0px;
+}
+#prodiv
+{
+	width:100%;
+	float: left
+		padding:0px;
+	margin-top: 20px;
+}
+#table0
+{
+	float:left;
+	width:40%;
+	margin-top:-22px;
+}
+#table2
+{
+	padding-top:0px;
+	width:50%;
+	float:left;
+}
+#abouttable
+{
+	width:100%;
+	margin-top:-5px;
+}
+#aboutDese
+{
+	float: left;
+	width:100%;
+}
+#footerdiv
+{
+	background-color:#000;
+	float:left;
+	padding:0px;
+	margin:0px;
+	border:dotted;
+	width:100%;
+}

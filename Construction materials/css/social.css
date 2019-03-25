@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+	#Icones
+	{
+		list-style:none;
+	}
+	.iconsbox
+	{
+		
+		
+		width:90px;
+		//border:dotted;
+		display:inline-block;
+	
+	}
+	.icons
+	{
+		height:70px;
+		background-color:#933;
+		width:70px;
+		margin-left:-15px;
+		//border:dotted;
+		border:double #CCFF00;
+		border-radius:50%;
+
+	}
+	#footertable
+	{
+		float:left;
+		color:#FFF;
+		font-size:18px;
+		margin-left:25%;
+	}
+	#footertable1
+	{
+		color:#FFF;
+		float:left;
+	}
